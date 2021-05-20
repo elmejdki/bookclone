@@ -7,7 +7,7 @@ ruby '2.7.0'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.1'
 # Use sqlite3 as the database for Active Record
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # use devise for authentication
 gem 'devise'
 gem 'bulma-rails', '~> 0.8.2'
